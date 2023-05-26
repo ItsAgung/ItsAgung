@@ -14,10 +14,11 @@ I'm Undergraduate Informatics Management Student from State Polytechnic of Sriwi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAgung&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ItsAgung)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ItsAgung)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsAgung&show_icons=true&theme=cobalt)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ItsAgung)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ItsAgung)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/ItsAgung)  
+
