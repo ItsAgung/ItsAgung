@@ -1,7 +1,7 @@
 ### Hello There 👋, My name is Muhammad Prasasti Agung
 I'm Undergraduate Informatics Management Student from State Polytechnic of Sriwijaya
 
-- 🌱 I’m currently learning Codeigniter, Javascript Framework, Flutter, Java 
+- 🌱 I’m currently learning Codeigniter, Laravel, Django, Javascript Framework, and Cloud Computing
 - 📫 How to reach me: agungmhd56@gmail.com 
 - ⚡ Fun fact About me : Write Code And Play Music for Relaxation
 
