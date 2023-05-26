@@ -23,3 +23,5 @@ I'm Undergraduate Informatics Management Student from State Polytechnic of Sriwi
 
 ![Profile views](https://gpvc.arturio.dev/ItsAgung)  
 
+![ThanksYou](https://img.shields.io/badge/Thankyou_for_visiting_my_github😊-dodgerred.svg?style=for-the-badge)
+
