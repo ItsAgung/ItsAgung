@@ -1,7 +1,7 @@
 ### Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, My name is Muhammad Prasasti Agung
 I'm Undergraduate Informatics Management Student from State Polytechnic of Sriwijaya
 
-- 🌱 I’m currently learning ReactJS, NextJS, TailwindCSS Golang, Codeigniter, Laravel, and Cloud Computing
+- 🌱 I’m currently learning ReactJS, NextJS, TailwindCSS, Golang, Codeigniter, Laravel, and Cloud Computing
 - 📫 How to reach me: agungmhd56@gmail.com 
 - ⚡ Fun fact About me : Write Code And Play Music for Relaxation 
 
