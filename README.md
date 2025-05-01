@@ -17,8 +17,6 @@ I am a graduate of the Informatics Management Department of Sriwijaya State Poly
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ItsAgung)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsAgung&show_icons=true&theme=cobalt)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItsAgung)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/ItsAgung)  
