@@ -19,7 +19,5 @@ I am a graduate of the Informatics Management Department of Sriwijaya State Poly
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItsAgung)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile views](https://gpvc.arturio.dev/ItsAgung)  
-
 ![ThanksYou](https://img.shields.io/badge/Thankyou_for_visiting_my_github😊-dodgerred.svg?style=for-the-badge)
 
