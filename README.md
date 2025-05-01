@@ -1,5 +1,5 @@
 ### Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, My name is Muhammad Prasasti Agung
-I'm Grraduated from Informatics Management, State Polytechnic of Sriwijaya
+I am a graduate of the Informatics Management Department of Sriwijaya State Polytechnic.
 
 - 🌱 My expertise is Software Engineering and Testing
 - 📫 How to reach me: agungmhd56@gmail.com 
